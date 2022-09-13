@@ -1,0 +1,11 @@
+[
+  {
+    "featureType": "administrative.country",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "weight": 8
+      }
+    ]
+  }
+]
